@@ -1,5 +1,5 @@
 
-# Skin Disease Detection Using CNN
+# Skin Disease Detection Using CNN based u-net model
 
 ## Project Overview
 This project focuses on detecting skin diseases using a Convolutional Neural Network (CNN).
