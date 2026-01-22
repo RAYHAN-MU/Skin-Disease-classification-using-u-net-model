@@ -30,7 +30,6 @@ Maps extracted features to final skin disease classes
 
 ### Training Details
 Input image size: 224 × 224
-Loss Function: CrossEntropyLoss
 Optimizer: Adam
 Learning Rate: 1e-4
 Batch Size: 8
@@ -46,7 +45,7 @@ Epochs:60
 📂 Dataset Description  
 
 ## Skin disease image dataset
-## Image-level class labels only 30000 images 
+## Image-level class labels only 3000 images 
 ## No segmentation masks available
 ## Dataset split into:
 ## Training set
