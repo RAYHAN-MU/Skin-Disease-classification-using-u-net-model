@@ -49,8 +49,8 @@ Epochs:60
 ## No segmentation masks available
 ## Dataset split into:
 ## Training set
-##Validation set
-##Test set
+## Validation set
+## Test set
 Google Drive Link : https://drive.google.com/file/d/1HRnqVXgiUEvzHAzQ48_nZsuRyLaLc8f6/view?usp=drive_link
 
 ## Methodology
